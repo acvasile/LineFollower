@@ -1,0 +1,6 @@
+2 x Geared motor 3V - 6V DC
+1 x Motor driver DRV8833
+1 x Infrared array sensors QTR-8A
+1 x Atmega 324p
+1 x Battery 9V (motors)
+3 x Battery 1.5V (board)
